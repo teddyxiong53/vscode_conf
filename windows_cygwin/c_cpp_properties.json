@@ -3,7 +3,9 @@
         {
             "name": "win32",
             "includePath": [
-                "d:/cygwin/usr/include"
+                "d:/cygwin/usr/include",
+                "D:/cygwin/lib/gcc/i686-pc-cygwin/7.3.0/include",
+                "D:/cygwin/lib/gcc/i686-pc-cygwin/7.3.0/include/c++"
 
             ],
             "defines": [
